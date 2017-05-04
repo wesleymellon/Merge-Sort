@@ -30,5 +30,3 @@ def merge_sort(arr)
     merge(a,b)
   end
 end
-
-p merge_sort([4,3,5,1,6,9,4,6])
